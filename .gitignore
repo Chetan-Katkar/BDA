@@ -1,0 +1,42 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+build/
+dist/
+
+# ---- Virtual environments ----
+venv/
+.venv/
+env/
+ENV/
+
+# ---- Apache Spark / Hadoop ----
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+_SUCCESS
+checkpoint/
+logs/
+
+# ---- Project output ----
+# Recommendations written with --save-recs
+output/
+recommendations/
+
+# ---- Large datasets (see data/README.md for download instructions) ----
+# The tiny sample file is committed on purpose; full datasets are not.
+data/*.csv
+data/*.xlsx
+data/*.parquet
+!data/sample_transactions.csv
+
+# ---- Editors / OS ----
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
