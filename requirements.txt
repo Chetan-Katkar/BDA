@@ -1,0 +1,17 @@
+# ---------------------------------------------------------------------------
+# E-Commerce Recommendation System Using Apache Spark
+# Python dependencies. Install with:  pip install -r requirements.txt
+# ---------------------------------------------------------------------------
+
+# Apache Spark's Python API. Brings its own bundled Spark distribution, so no
+# separate Spark install is needed for local runs.
+#   - PySpark 3.5.x needs Java 8, 11 or 17
+#   - PySpark 4.x   needs Java 17 or 21
+# This project was developed and tested on PySpark 4.2.0 with OpenJDK 21.
+pyspark>=3.5.0
+
+# Used internally by Spark MLlib for local linear-algebra operations.
+numpy>=1.24.0
+
+# Note: py4j (the Python <-> JVM bridge) is installed automatically as a
+# dependency of pyspark and does not need to be listed separately.
