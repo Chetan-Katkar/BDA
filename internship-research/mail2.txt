@@ -1,0 +1,394 @@
+MUMBAI + NAVI MUMBAI INTERNSHIP LIST - 289 COMPANIES
+100 Navi Mumbai (researched per company) + 189 wider Mumbai (discovery level).
+Target for a 2-6 month software / technology internship. NOBODY CONTACTED.
+
+WHY THE SPREADSHEET IS NOT ATTACHED
+I cannot reliably attach a binary file from this environment - the file has to be
+re-typed as ~47,000 characters of encoded text into the mail call, and one wrong
+character produces an Excel file that will not open. Rather than send you something
+that might be corrupt, the full list is written out below, and the real .xlsx is
+waiting for you in two places:
+  1. In the Claude chat where this was produced - download it there.
+  2. github.com/Chetan-Katkar/BDA, branch claude/eloquent-babbage-rsuqq4,
+     folder internship-research/ - file Mumbai_NaviMumbai_Internship_Master.xlsx
+If you enable the Google Drive connector for that chat, I can upload it and mail
+you a direct link instead.
+
+HONEST LIMITS ON WHAT YOU ASKED FOR
+- 'Great reviews' could not be verified. Page fetching is blocked in the research
+  environment, so Glassdoor / AmbitionBox rating pages could not be opened. There is
+  no invented rating anywhere in this list.
+- 'Great stipend' only appears where a live listing stated one, e.g. Silicon
+  Interfaces Rs 15,000-25,000/month and Host360 up to Rs 12,000/month.
+- 'Easy to crack' cannot be evidenced. Company size plus a live intern posting is the
+  honest proxy, which is what the Navi Mumbai priority scoring uses.
+- You asked for 250 new companies. I found 189 distinct new ones. I did not pad the
+  list with duplicates, non-technology firms, or companies whose Mumbai presence I
+  could not source.
+
+Also worth saying plainly: easy + high stipend + great reviews rarely coincide.
+Dream11, BrowserStack, Google and the bank GCCs pay best and review well, and are the
+hardest to enter. The small Navi Mumbai firms with a published hr@ mailbox are the
+ones most likely to write back. Apply to the big names through their portals and
+cold-email the small ones.
+
+==========================================================================
+PART 1 - START HERE: 21 COMPANIES WITH A PUBLICLY VERIFIED EMAIL
+==========================================================================
+
+-- 8 with a real HR / recruitment mailbox --
+  Silicon Interfaces
+      recruit@siliconinterfaces.com  |  Vashi
+  Intelegain Technologies Pvt Ltd
+      careers@intelegain.com  |  Turbhe
+  NeoSOFT Pvt Ltd
+      careers@neosofttech.com ; recruitment@neosofttech.com  |  Airoli (Gigaplex) / Rabale (Sigma IT Park)
+  GeBBS Healthcare Solutions Pvt Ltd
+      careers@gebbs.com  |  Airoli
+  AppZime Technologies Pvt Ltd
+      careers@appzime.com  |  Kharghar
+  Cognizant Technology Solutions India Pvt Ltd
+      talentattractteam@cognizant.com  |  Airoli
+  Hadwise Technologies Pvt Ltd / Hadwise Infotech
+      career@hadwisetechnologies.com  |  Vashi
+  Ansha Software
+      hr@anshasoftware.com  |  Vashi
+
+-- 13 with a general company mailbox --
+  Maxgen Technologies Pvt Ltd
+      info@maxgentechnologies.com  |  Vashi
+  Smartinfologiks
+      admin@smartinfologiks.com ; sales@smartinfologiks.com  |  CBD Belapur
+  Arrk Solutions Pvt Ltd (Arrk Group India)
+      talktous@arrkgroup.com  |  Ghansoli
+  Aurionpro Solutions Ltd
+      ce.enquiries@aurionpro.com (business enquiries mailbox)  |  Rabale
+  Interface Design Associates Pvt Ltd (IDAPL)
+      sales@idapl.in  |  Rabale
+  Nelito Systems Ltd
+      marketing@nelito.com  |  Airoli
+  Sarla Technologies Pvt Ltd
+      sarla.ind@sarlatech.com  |  Ghansoli
+  Techvizo
+      help@techvizo.com  |  Vashi
+  Terra Edge Soft Pvt Ltd (TerraEdge / TerraEdgeSoft.ai)
+      hello@terraedgesoft.ai ; contact@terraedgesoft.com  |  Vashi
+  Trigun Infotech Pvt Ltd
+      info@triguninfotech.com  |  CBD Belapur
+  Crafsol Technology Solutions Pvt Ltd
+      nirmal.jain@crafsol.com (named contact published on company site)  |  Airoli
+  Dimensionless Technologies Pvt Ltd
+      info@dimensionless.in  |  Vashi
+  Neolite Infotech India Pvt Ltd
+      info@neolite.in  |  CBD Belapur
+
+==========================================================================
+PART 2 - NAVI MUMBAI: 31 WITH A CURRENT OPENING FOUND
+==========================================================================
+Postings expire - re-check each before applying.
+
+  Silicon Interfaces                             Vashi
+  NeoSOFT Pvt Ltd                                Airoli
+  GeBBS Healthcare Solutions Pvt Ltd             Airoli
+  Maxgen Technologies Pvt Ltd                    Vashi
+  Smartinfologiks                                CBD Belapur
+  Hexaware Technologies Ltd                      Ghansoli
+  Intelecorp Software (I) Pvt Ltd / Intelebiz    CBD Belapur
+  Interface Design Associates Pvt Ltd (IDAPL)    Rabale
+  LeapSwitch Networks Pvt Ltd                    Rabale
+  Mastek Ltd                                     Ghansoli
+  SS&C Technologies / SS&C GlobeOp Financial Ser Airoli
+  Techvizo                                       Vashi
+  3i Infotech Ltd                                Vashi
+  Accenture Solutions Pvt Ltd                    Airoli
+  Advin Softwares Pvt Ltd                        CBD Belapur
+  Atos (Atos Syntel) / Eviden                    Airoli
+  Beam Innovate Pvt Ltd                          Ghansoli
+  Capgemini Technology Services India Ltd        Airoli
+  Deutsche Bank (India technology & operations)  Vashi
+  HERE Solutions India Pvt Ltd (HERE Technologie Airoli
+  IBM India Pvt Ltd                              Airoli
+  IRIS RegTech Solutions Ltd (formerly IRIS Busi Vashi
+  Maersk Global Service Centres (India) Pvt Ltd  Airoli
+  Sutherland Global Services                     Airoli
+  UBS Business Solutions (India) Pvt Ltd         Airoli
+  Worley India (Worley Services India Pvt Ltd)   Airoli
+  eClerx Services Ltd                            Airoli
+  ideaForge Technology Ltd                       Ghansoli
+  CODERS Technologies                            Vashi
+  Relligio Consultants                           Vashi
+  SpectaClicks Innovations (software division of CBD Belapur
+
+Best duration matches for 2-6 months specifically:
+  Beam Innovate (Ghansoli) - explicit 6-month full-stack / frontend internships
+  SpectaClicks (CBD Belapur) - 6-month frontend internship with stipend
+  UBS Business Solutions (Airoli) - states 2 to 12 months
+  Silicon Interfaces (Vashi) - Rs 15,000-25,000 per month
+  Interface Design Associates (Rabale) - Python / C++ on a CAD-CAM platform
+
+==========================================================================
+PART 3 - NAVI MUMBAI 100: AUDIT RESULT
+==========================================================================
+75 PASSED. 25 FAILED and why:
+  16 unverified location   7 not technology-relevant   1 duplicate   1 unverifiable email
+Failed entries: AIBiStreet, Aon India (Aon Services India), Arcadis India, Axis Securities Ltd, Black Box Ltd (Black Box Network S, CMA CGM Shared Service Centre Indi, Continuum Information Systems, Crisco Consulting, DP World Global Service Centre, DST Worldwide Services India (SS&C, Finicity Technologies Pvt Ltd, FirstRand Services Pvt Ltd (FirstR, Hinduja Global Solutions (HGS), Huawei Telecommunications (India) , ICICI Bank (Aurum Q Parc technolog, Ness Digital Engineering (Ness Tec, Nestcraft Design Studio, NetBiz Systems, Parivartan AI, Payfront Technologies India Pvt Lt, Prosper Technology Solutions, RI Infotech, SLB (Schlumberger) Mahape office, Vayutech Global Solutions Pvt Ltd, e2Serv Ventures Pvt Ltd (e2Serv Te
+
+==========================================================================
+PART 4 - WIDER MUMBAI: 189 NEW COMPANIES (DISCOVERY LEVEL)
+==========================================================================
+Real companies with real sources, grouped by sector. Address / email / phone /
+internship status are NOT verified for these - open the company site first.
+
+-- Andheri/SEEPZ (8) --
+   Orient Technologies Ltd                      Andheri East (head office)         MED
+   Net Business Solutions India Ltd             Andheri East                       MED
+   Immortal Computer Lab Pvt Ltd                Marol                              MED
+   Systems International                        Jogeshwari East                    MED
+   Innovia Software                             Mumbai                             LOW
+   Intertec Software Pvt Ltd                    Mumbai                             LOW
+   Traffic Tail                                 Mumbai                             LOW
+   Mugenesys                                    Mumbai                             LOW
+
+-- BKC (3) --
+   Google India                                 Fortune 2000, Bandra Kurla Complex MED
+   Dynatrace India Software Operations Pvt Ltd  20th Floor, Parinee Crescenzo, G B MED
+   Morningstar India                            Mumbai                             MED
+
+-- BKC/Andheri (1) --
+   Mastercard                                   Andheri East (loyalty solutions ce MED
+
+-- Borivali/Kandivali (4) --
+   Dezigndia Technologies                       Borivali East                      MED
+   Kalpataru Technologies                       Borivali West                      MED
+   Jagnil Computer And Software                 Borivali West                      LOW
+   CSoft                                        Borivali West                      LOW
+
+-- Goregaon/Malad (8) --
+   Tejora                                       Mindspace Malad                    MED
+   Infinitrix                                   Mindspace Malad                    LOW
+   JPMorgan Chase (Mumbai + Goregaon NKP)       Mumbai / Nirlon Knowledge Park, Go MED
+   Citi (Mumbai technology centre)              Mumbai / Nirlon Knowledge Park, Go MED
+   Barclays (Mumbai technology centre)          Mumbai / Nirlon Knowledge Park, Go MED
+   Oracle India                                 Nirlon Knowledge Park, Goregaon Ea MED
+   EY GDS India                                 Nirlon Knowledge Park, Goregaon Ea MED
+   Firstsource Solutions                        Mindspace Malad                    MED
+
+-- Lower Parel/Worli (7) --
+   Karza Technologies                           Lower Parel                        MED
+   eBuild Softwares and Solutions               Office 6A, Trade World D Wing, Kam MED
+   Hoarway Technology                           Lower Parel                        MED
+   Microland Ltd                                Lower Parel                        MED
+   NSDL Database Management Ltd                 Lower Parel                        MED
+   Genovate Solutions India Pvt Ltd             Lower Parel                        MED
+   Datacraft India Ltd                          Lower Parel                        MED
+
+-- Mumbai (AI) (18) --
+   Fractal Analytics                            Mumbai                             MED
+   Haptik Technologies                          Mumbai                             MED
+   Qure.ai                                      Mumbai                             MED
+   Datamatics Global Services                   Mumbai                             MED
+   Miko (Miko Technologies)                     Mumbai                             MED
+   HyperVerge                                   Mumbai                             MED
+   Wright Research                              Mumbai                             MED
+   Bull AI                                      Mumbai                             LOW
+   Intellimation                                Mumbai                             LOW
+   Novaex                                       Mumbai                             LOW
+   FidelFolio Investments                       Mumbai                             LOW
+   Arya.ai                                      Mumbai                             MED
+   Navsoft                                      Mumbai                             MED
+   Matrix Bricks Infotech                       Mumbai                             MED
+   Agram Konnect                                Mumbai                             LOW
+   Perimattic                                   Mumbai                             LOW
+   Indigloo Softwares Pvt Ltd                   Mumbai                             LOW
+   April Innovations                            Mumbai                             LOW
+
+-- Mumbai (ERP) (10) --
+   Uneecops Technologies                        Mumbai                             MED
+   Cogniscient Business Solutions               Mumbai                             MED
+   Atlas Technosoft Pvt Ltd                     Mumbai                             MED
+   eNoah iSolution India                        Mumbai                             MED
+   Accelon Tech                                 Mumbai                             MED
+   PTS Systems & Solutions                      Mumbai                             MED
+   Cinntra Infotech                             Mumbai                             MED
+   Zyple Software Solutions                     Mumbai                             MED
+   SoftCore Solutions                           Mumbai                             MED
+   KAEM Technologies                            Mumbai                             MED
+
+-- Mumbai (GCC) (7) --
+   Morgan Stanley (Mumbai technology centre)    Mumbai                             MED
+   Standard Chartered GBS                       Mumbai                             MED
+   MUFG (Mumbai GCC)                            Mumbai                             MED
+   Marsh India                                  Mumbai                             MED
+   Mercer India                                 Mumbai                             MED
+   Guy Carpenter India                          Mumbai                             MED
+   BMS Group (Mumbai GCC)                       Mumbai                             MED
+
+-- Mumbai (SaaS) (11) --
+   Seclore Technology                           Mumbai                             MED
+   Flipspaces                                   Mumbai                             MED
+   Freight Tiger                                Mumbai                             MED
+   ZingHR                                       Mumbai                             MED
+   Mozark                                       Mumbai                             MED
+   Intelligence Node                            Mumbai                             MED
+   Peel-Works                                   Mumbai                             MED
+   BlueOptima                                   Mumbai                             MED
+   Leadzen                                      Mumbai                             MED
+   InspireOne Technologies (Master-O)           Mumbai                             MED
+   LogiNext Solutions                           Mumbai                             MED
+
+-- Mumbai (adtech) (6) --
+   Mobavenue                                    Mumbai                             MED
+   Vertoz Advertising Ltd                       Mumbai                             MED
+   POKKT                                        Mumbai                             MED
+   Komli Media                                  Mumbai                             LOW
+   mCanvas                                      Mumbai                             MED
+   Inuxu Digital Media Technologies (Adgebra)   Mumbai                             MED
+
+-- Mumbai (analytics) (3) --
+   Decimal Point Analytics                      Mumbai                             MED
+   Polestar Analytics                           Mumbai                             MED
+   Cymetrix Software                            Mumbai                             MED
+
+-- Mumbai (cloud) (1) --
+   Umbrella Infocare                            Mumbai                             MED
+
+-- Mumbai (cloud/AI) (1) --
+   Neysa Networks                               Mumbai                             MED
+
+-- Mumbai (edtech) (6) --
+   upGrad                                       Mumbai                             MED
+   Eruditus Executive Education                 Mumbai                             MED
+   LEAD School (LEAD)                           Mumbai                             MED
+   Avanti Learning Centres                      Mumbai                             MED
+   Testbook                                     Mumbai (HQ)                        MED
+   IIDE Education Pvt Ltd                       Mumbai                             MED
+
+-- Mumbai (fintech) (21) --
+   InCred                                       Mumbai                             MED
+   Mintifi                                      Mumbai                             MED
+   Weaver (Weaver Services)                     Mumbai                             MED
+   Piramal Capital & Housing Finance            Mumbai                             MED
+   Vastu Housing Finance                        Mumbai                             MED
+   Drip Capital                                 Mumbai                             MED
+   BillDesk                                     Mumbai                             MED
+   CoinDCX                                      Mumbai                             MED
+   Angel One                                    Mumbai                             MED
+   Jupiter (Amica Financial)                    Mumbai                             MED
+   Upstox (RKSV Securities)                     Mumbai (HQ)                        MED
+   Eduvanz Financing                            Mumbai                             MED
+   CASHe (Aeries Financial Technologies)        Mumbai                             MED
+   Kuhoo Finance                                Mumbai                             MED
+   Kissht (OnEMi Technology Solutions)          Mumbai                             MED
+   Mswipe Technologies                          Mumbai                             MED
+   Citrus Pay                                   Mumbai                             LOW
+   IDfy (Baldor Technologies)                   Mumbai                             MED
+   Avenues India Pvt Ltd (CCAvenue)             Mumbai                             MED
+   FlexiLoans                                   Mumbai                             MED
+   CreditWise Capital                           Mumbai                             MED
+
+-- Mumbai (gaming) (4) --
+   Sportz Interactive                           Mumbai                             MED
+   GameEon Studios                              Mumbai                             MED
+   Nilee Games and Future Technologies          Mumbai (HQ)                        MED
+   Motion Work Studios                          Mumbai                             MED
+
+-- Mumbai (healthtech) (7) --
+   PharmEasy (API Holdings)                     Mumbai                             MED
+   Medikabazaar                                 Mumbai                             MED
+   Truemeds (Intellihealth)                     Mumbai                             MED
+   Zeno Health                                  Mumbai                             MED
+   Neodocs                                      Mumbai                             MED
+   Wellthy Therapeutics                         Mumbai                             MED
+   Ivory (Ivory Health)                         Mumbai                             MED
+
+-- Mumbai (insurtech) (4) --
+   Turtlemint                                   Mumbai                             MED
+   Acko General Insurance                       Mumbai                             MED
+   Riskcovry                                    Mumbai                             MED
+   OneAssist Consumer Solutions                 Mumbai                             MED
+
+-- Mumbai (intern hirer) (6) --
+   Medius Technologies Pvt Ltd                  Mumbai                             MED
+   BNM Business Solutions LLP                   Mumbai                             MED
+   Break The Code                               Mumbai                             MED
+   Mple AI                                      Mumbai                             MED
+   Host360                                      Mumbai                             MED
+   Talent Corner HR Services                    Mumbai                             MED
+
+-- Mumbai (logistics) (5) --
+   GreenLine                                    Mumbai                             MED
+   Borzo India                                  Mumbai                             MED
+   Oorjaa                                       Mumbai                             MED
+   ShipWaves                                    Mumbai                             MED
+   iThink Logistics                             Mumbai                             MED
+
+-- Mumbai (media tech) (2) --
+   Viacom18 Media Pvt Ltd                       Mumbai (HQ)                        MED
+   GroupM India                                 Mumbai                             MED
+
+-- Mumbai (product) (6) --
+   Dream11                                      Mumbai                             MED
+   BookMyShow                                   Mumbai                             MED
+   BrowserStack                                 Mumbai                             MED
+   Rebel Foods                                  Mumbai                             MED
+   Zepto                                        Mumbai                             MED
+   Games24x7                                    Mumbai (HQ)                        MED
+
+-- Mumbai (security) (8) --
+   CyberNX Technologies Pvt Ltd                 Mumbai                             MED
+   Inspira Enterprise India Ltd                 Mumbai                             MED
+   CiELO Technologies                           Mumbai                             MED
+   Petadot System & Security Pvt Ltd            Mumbai                             MED
+   IARM Information Security                    Mumbai                             MED
+   Microscan Communications Pvt Ltd             Mumbai                             MED
+   Logix Infosecurity                           Mumbai                             MED
+   Vista InfoSec                                Mumbai                             MED
+
+-- Mumbai (services) (6) --
+   Persistent Systems                           Mumbai                             MED
+   Indus Net Technologies Ltd                   Mumbai                             MED
+   Accely                                       Mumbai                             MED
+   Tirnav Solutions Pvt Ltd                     Mumbai                             MED
+   Direction Software LLP                       Mumbai                             MED
+   DXC Technology (formerly CSC)                Mumbai                             MED
+
+-- Mumbai (web) (16) --
+   Unico Connect                                Mumbai                             MED
+   Ajackus                                      Mumbai                             MED
+   Bombay Softwares                             Mumbai                             MED
+   3minds Digital                               Mumbai                             MED
+   SIB Infotech                                 Mumbai                             MED
+   Inboundsys                                   Mumbai                             LOW
+   Zoot Digital                                 Mumbai                             LOW
+   Robosoft Technologies                        Mumbai                             MED
+   Azul Arc                                     Mumbai                             LOW
+   Buzzlink Studios                             Mumbai                             MED
+   Probey Services                              Mumbai (India branch)              MED
+   Promatics Technologies                       Mumbai                             MED
+   Furation Tech Solutions                      Mumbai                             MED
+   Dynamic Vishva                               Mumbai                             MED
+   Appic Mobile                                 Mumbai                             MED
+   Trionova                                     Mumbai                             LOW
+
+-- Mumbai (web/AI) (1) --
+   QED42                                        Mumbai                             MED
+
+-- Powai (2) --
+   SpeEdLabs                                    Powai                              MED
+   Infosys Ltd                                  Powai (reported)                   LOW
+
+-- Powai/Thane (1) --
+   Tata Consultancy Services (TCS)              Powai + Thane (Hiranandani Estate) MED
+
+-- Thane (2) --
+   Silgate Solutions Ltd                        808 B Wing, Ashar IT Park, Wagle E MED
+   Balaji Infotech                              9th Floor, Rd 16A, Wagle Industria MED
+
+-- Vikhroli/Chembur (4) --
+   Web Crafters IT Solutions                    Swastik Onyx, Vikhroli             MED
+   Software Smiths                              Karma Stambh, C Wing, LBS Marg, Vi MED
+   Cloudesign Technology Solutions LLP          Vikhroli West                      MED
+   Ozias Media Pvt Ltd                          Vikhroli                           LOW
+
+==========================================================================
+Compiled 30 September 2026. No company has been contacted.
