@@ -1,0 +1,348 @@
+# Chetan Katkar — Outreach Kit (cold email + LinkedIn)
+Built from the actual resume: Java/Spring Boot, PingGuard, LookUp (Rust/Tauri, 100+ installs),
+AWS Lambda/API Gateway/DynamoDB, Docker, PostgreSQL/MySQL/MongoDB, LeetCode 480+, CGPA 9.33.
+
+---
+## PART 0 — WHICH ROLES TO ACTUALLY TARGET
+
+### Tier 1 — apply to these first (your resume is a direct match)
+- Java Developer Intern / Spring Boot Intern
+- Backend Developer Intern
+- Software Developer Intern / SDE Intern (backend-leaning)
+- REST API / Microservices Intern
+
+Why: PingGuard is a textbook Spring Boot 3 + Java 21 + JWT + JPA + PostgreSQL + Docker project.
+That is exactly the stack these roles hire on, and you can talk about it for 20 minutes.
+
+### Tier 2 — strong secondary
+- Cloud / DevOps Intern (AWS Lambda + API Gateway + DynamoDB, Docker Compose)
+- SQL / Database Intern (50+ SQL problems, three databases)
+- Full-Stack Intern (only where backend is the heavier half)
+
+### Tier 3 — apply, but do not lead with these
+- QA / Automation Intern — you have JUnit, but no test-automation project. Fine as a foot in
+  the door, weak as a pitch.
+- Systems / Rust roles — LookUp is a real differentiator, but Rust openings in Mumbai are rare.
+  Mention it; do not build the pitch on it.
+
+### Do NOT lead with AI/ML — read this
+You have an ML internship (Cloud Counselage, 240 hours, 5/5) but **no ML project on the resume**.
+If you pitch yourself as an AI/ML candidate, the first question will be "what did you build?" and
+you have no strong answer. Either:
+  (a) target backend, where your evidence is excellent, or
+  (b) add one real ML project first, then target AI/ML.
+Pitching backend is the higher-probability path right now.
+
+### Two resume fixes before you send anything
+1. The email on your resume is chetankatkar0307@gmail.com. Make sure that is the inbox you
+   actually watch, or change it. A reply landing in an unread inbox costs you the role.
+2. The LeetCode streak and contest rating are prominent. Keep them on the resume, but in the
+   email lead with **what you shipped**, not the streak. Hiring managers hire builders.
+
+---
+## PART 1 — COLD EMAIL TEMPLATES
+
+### Rules that make these work
+- Under 150 words. Recruiters read on a phone.
+- Subject line says the role and the duration. No "Job Application".
+- One concrete proof with a number in it.
+- One clear ask. Never "any opportunity would be great".
+- Attach the PDF and name it Chetan_Katkar_Resume.pdf. Never a Drive link they must request.
+- Send Tue–Thu, 10am–12pm IST. Avoid Monday morning and Friday evening.
+
+---
+### TEMPLATE A — to an HR / recruitment mailbox (careers@, hr@, recruit@)
+Use for: Silicon Interfaces, Intelegain, NeoSOFT, AppZime, GeBBS, Hadwise, Ansha Software.
+
+Subject: Backend (Java/Spring Boot) intern — available for 2–6 months, based in Navi Mumbai
+
+Hi [Team / Name],
+
+I'm Chetan, a final-year Computer Engineering student at Vidyalankar Institute of Technology,
+and I'm looking for a 2–6 month backend internship starting [MONTH].
+
+Most of what I know I learned by building. PingGuard is an uptime monitoring service I'm
+writing in Spring Boot 3 and Java 21 — JWT auth through a custom Spring Security filter,
+PostgreSQL with JPA, and the whole stack in Docker Compose. Before that I shipped LookUp, a
+Rust/Tauri desktop app now on 100+ installs, with the licensing backend on AWS Lambda and
+DynamoDB.
+
+I'm in [AREA] and can work from your office. My resume is attached — happy to do a task or a
+short call if it's useful.
+
+Thanks for your time,
+Chetan Katkar
+9987925791 | github.com/Chetan-Katkar | linkedin.com/in/chetan-katkar
+
+---
+### TEMPLATE B — to a general company mailbox (info@, admin@, talktous@, sales@)
+Use for: Nelito, Sarla, Trigun, Techvizo, TerraEdgeSoft, Maxgen, Smartinfologiks, Arrk,
+Aurionpro, IDAPL, Neolite, Dimensionless.
+These are not recruitment inboxes, so ask to be forwarded. One extra sentence does that.
+
+Subject: Internship enquiry — backend developer (Java/Spring Boot), 2–6 months
+
+Hi,
+
+Could you please pass this to whoever handles hiring? If there's a better address for that, I'm
+happy to write there instead.
+
+I'm Chetan Katkar, a final-year Computer Engineering student at Vidyalankar Institute of
+Technology in Mumbai, looking for a 2–6 month backend internship.
+
+I build with Java and Spring Boot. My current project, PingGuard, is an uptime monitoring
+service on Spring Boot 3 and Java 21 with JWT authentication, PostgreSQL/JPA and Docker
+Compose. I've also shipped a Rust desktop app to 100+ users with an AWS serverless backend.
+
+I'm based in Navi Mumbai, so [AREA] is an easy commute. Resume attached.
+
+Thank you,
+Chetan Katkar
+9987925791 | chetankatkar0307@gmail.com | github.com/Chetan-Katkar
+
+---
+### TEMPLATE C — to a founder or named person at a small company
+Use for: FynTune (CEO), Crafsol (named contact), and any small firm where you find a real name.
+Founders reply to specificity. Show you looked at what they do.
+
+Subject: Final-year CS student, Spring Boot — 2–6 month internship?
+
+Hi [First name],
+
+I came across [Company] while looking at product teams around [Area], and [ONE SPECIFIC,
+TRUE THING — e.g. "the insurance platform work" / "that you build for shipping operations"]
+is close to what I want to work on.
+
+I'm a final-year Computer Engineering student and I mostly write Java/Spring Boot. I'm building
+PingGuard, an uptime monitoring service — Spring Boot 3, Java 21, JWT via a custom Spring
+Security filter, PostgreSQL, Docker Compose. I also shipped a Rust/Tauri desktop app to 100+
+users with the licensing backend on AWS Lambda + DynamoDB.
+
+I'm looking for a 2–6 month internship and I'm in Navi Mumbai. If you have something open —
+or will soon — I'd like to be considered. Resume attached.
+
+Thanks,
+Chetan
+9987925791 | github.com/Chetan-Katkar
+
+---
+### TEMPLATE D — follow-up (send once, 6–7 days later, reply to your own email)
+
+Subject: Re: [your original subject]
+
+Hi [Name],
+
+Just floating this back up in case it got buried. Still keen on a 2–6 month backend internship
+at [Company], and still available from [MONTH].
+
+One thing I've added since I wrote: [ONE REAL UPDATE — e.g. "PingGuard now has scheduled
+health checks running on a fixed-rate executor" or "I've containerised the test suite"].
+
+If it's a no for now, that's completely fine — a one-line reply so I stop chasing would be
+appreciated.
+
+Thanks,
+Chetan
+
+Rule: ONE follow-up. Two is persistence. Three is a nuisance.
+
+---
+### TEMPLATE E — when they reply "send your resume" or "tell us more"
+
+Hi [Name],
+
+Thanks for getting back. Resume attached.
+
+Quick summary in case it's easier: I'm final-year Computer Engineering, CGPA 9.33, and I work
+mainly in Java/Spring Boot. Two things I'd point you at:
+
+- PingGuard (github.com/Chetan-Katkar/pingguard) — uptime monitoring on Spring Boot 3 / Java 21,
+  JWT auth, PostgreSQL + JPA, Dockerised. Controller→Service→Repository, centralised error
+  handling.
+- LookUp (lookup.theboddh.in) — Rust/Tauri desktop app, 100+ installs, AWS Lambda + API Gateway
+  + DynamoDB licensing backend with hardware-tied activation.
+
+I can start [MONTH] and commit [2/3/6] months, full-time, onsite at [Location].
+
+Happy to do a small take-home task if that's how you usually assess.
+
+Chetan
+
+---
+## PART 2 — LINKEDIN MESSAGE FORMATS
+
+### The rule that matters most
+Nobody wants to read a formal letter in a LinkedIn DM. Write it the way you would text a senior
+you respect. Short lines, no "esteemed organisation", no "I would be grateful for the
+opportunity to be considered". Do not paste your resume into the message body.
+
+---
+### L1 — Connection request note (300 character limit — this fits)
+
+Hi [Name] — I'm a final-year CS student in Navi Mumbai, mostly writing Java/Spring Boot. I'm
+looking for a 2–6 month backend internship and [Company]'s work is the kind I want to do. Would
+like to connect and follow what your team's building.
+
+---
+### L2 — First DM after they accept (wait a day; do not fire it instantly)
+
+Hi [Name], thanks for connecting.
+
+Short version: I'm final-year Computer Engineering, and I build backend services in Java and
+Spring Boot. Right now I'm writing PingGuard, an uptime monitor — Spring Boot 3, JWT auth,
+PostgreSQL, running in Docker. Last project was a Rust desktop app that got to 100+ installs.
+
+I'm after a 2–6 month internship starting [MONTH], and I'm in Navi Mumbai so [Area] works.
+
+Is your team taking interns? If it's not you, even pointing me at the right person would help a
+lot.
+
+---
+### L3 — To an HR / TA person
+
+Hi [Name] — you handle hiring at [Company], so hoping you're the right person to ask.
+
+I'm a final-year Computer Engineering student looking for a 2–6 month backend internship
+(Java/Spring Boot). I've built an uptime monitoring service on Spring Boot 3 with JWT auth and
+PostgreSQL, and shipped a Rust desktop app to 100+ users with an AWS serverless backend.
+
+Are there intern openings at [Location]? Happy to send my resume or apply wherever you prefer.
+
+Thanks for reading.
+
+---
+### L4 — To an engineer or tech lead (asking for a referral, not a job)
+This one works best. Ask for a pointer, not employment.
+
+Hi [Name] — I saw you work on [team/tech] at [Company]. I'm a final-year CS student who mostly
+writes Java/Spring Boot, and I'm trying to land a 2–6 month backend internship.
+
+Not asking you to refer me on the spot. Two things that would genuinely help:
+1. Does your team take interns, and if so who runs that?
+2. Looking at my PingGuard repo (github.com/Chetan-Katkar/pingguard) — Spring Boot 3, JWT,
+   PostgreSQL, Docker — what would you want to see improved before you'd hire someone at my
+   level?
+
+Either answer is useful. Thanks.
+
+---
+### L5 — Replying to a job post ("DM me your resume")
+
+Hi [Name] — applying for the [Role] internship you posted.
+
+Final-year Computer Engineering, CGPA 9.33. Java/Spring Boot is my main stack. Built PingGuard
+(Spring Boot 3, Java 21, JWT via custom Spring Security filter, PostgreSQL/JPA, Docker Compose)
+and LookUp (Rust/Tauri desktop app, 100+ installs, AWS Lambda + DynamoDB backend).
+
+480+ LeetCode problems, currently 1570 contest rating.
+
+Resume: [attach / link]. Available from [MONTH] for [2/3/6] months, onsite at [Location].
+
+---
+### L6 — Alumni angle (highest reply rate of anything here)
+Search LinkedIn for "Vidyalankar Institute of Technology" + the company name.
+
+Hi [Name] — fellow Vidyalankar person here, I'm in final-year Computer Engineering.
+
+I'm looking for a 2–6 month backend internship and saw you're at [Company]. I work in
+Java/Spring Boot — currently building an uptime monitoring service on Spring Boot 3 with JWT
+auth and PostgreSQL, and I shipped a Rust desktop app to 100+ users before that.
+
+Could I ask how you found the team, and whether they take interns? Happy to keep it to a
+couple of messages.
+
+---
+## PART 3 — THREE WORKED EXAMPLES (ready to send)
+
+### 1. Silicon Interfaces — recruit@siliconinterfaces.com (Vashi)
+Best single target: real recruitment mailbox, advertised stipend, VLSI/software centre in Vashi.
+
+Subject: Backend/software intern — 2–6 months, Navi Mumbai based
+
+Hi,
+
+I'm Chetan, final-year Computer Engineering at Vidyalankar Institute of Technology, looking for
+a 2–6 month software internship. I saw Silicon Interfaces runs a software development centre in
+Vashi, which is a short ride from me.
+
+I write mostly Java and Spring Boot. I'm building PingGuard, an uptime monitoring service on
+Spring Boot 3 and Java 21 — JWT auth through a custom Spring Security filter, PostgreSQL with
+JPA, whole thing in Docker Compose. I've also shipped LookUp, a Rust/Tauri desktop app on 100+
+installs, with its licensing backend on AWS Lambda and DynamoDB. I'm comfortable in C as well.
+
+Resume attached. Available from [MONTH], full-time, onsite.
+
+Thanks,
+Chetan Katkar
+9987925791 | github.com/Chetan-Katkar | linkedin.com/in/chetan-katkar
+
+---
+### 2. Nelito Systems — marketing@nelito.com (Airoli, Empire Tower)
+Java-heavy banking software. Not an HR inbox, so ask for a forward.
+
+Subject: Internship enquiry — Java/Spring Boot developer, 2–6 months
+
+Hi,
+
+Could you forward this to whoever handles hiring at Nelito? Happy to write to a better address
+if there is one.
+
+I'm Chetan Katkar, a final-year Computer Engineering student in Navi Mumbai. Nelito builds
+banking and financial software, which is where I'd most like to spend an internship — the
+backend problems there are the ones I've been teaching myself.
+
+I work in Java and Spring Boot. PingGuard, my current project, is an uptime monitoring service
+on Spring Boot 3 and Java 21 with JWT authentication, PostgreSQL/JPA and Docker Compose. I've
+also built an AWS serverless backend (Lambda, API Gateway, DynamoDB) for a desktop app with
+100+ installs.
+
+Your Airoli office is a straightforward commute for me. Resume attached.
+
+Thank you,
+Chetan Katkar
+9987925791 | chetankatkar0307@gmail.com
+
+---
+### 3. AppZime Technologies — careers@appzime.com (Kharghar)
+Careers mailbox, and they do cloud/DevOps — so lead with AWS and Docker, not just Spring.
+
+Subject: Backend / cloud intern — 2–6 months, based in Navi Mumbai
+
+Hi,
+
+I'm Chetan, final-year Computer Engineering at Vidyalankar Institute of Technology, looking for
+a 2–6 month internship. I saw AppZime works across backend, cloud and DevOps — that mix is
+exactly what I've been building in.
+
+On the cloud side: I built the licensing backend for my desktop app LookUp on AWS Lambda, API
+Gateway and DynamoDB, with hardware-tied activation so keys can't be shared. It's live with
+100+ installs. On the backend side: PingGuard, an uptime monitoring service in Spring Boot 3
+and Java 21, JWT auth, PostgreSQL, the full stack in Docker Compose.
+
+Kharghar is an easy commute from me. Resume attached — glad to take a small task if that's how
+you screen.
+
+Thanks,
+Chetan Katkar
+9987925791 | github.com/Chetan-Katkar
+
+---
+## PART 4 — HOW TO RUN THIS WITHOUT WASTING THE LIST
+
+1. Week 1: the 8 HR mailboxes. Template A. One email each, personalised area + one true detail.
+2. Week 1 in parallel: LinkedIn L1 connection notes to 15–20 engineers and HR people at the
+   same companies. Alumni first (L6).
+3. Week 2: the 13 general mailboxes. Template B.
+4. Week 2: L2/L4 DMs to whoever accepted.
+5. Week 3: Template D follow-ups. One each. Then stop on those.
+6. Log every send in the OUTREACH TRACKER sheet the same day. Untracked outreach becomes
+   duplicate outreach, which reads as careless.
+
+Realistic expectation: 20–40% open, 10–20% reply, and a handful of real conversations from
+~30 well-targeted emails. That is a normal, healthy outcome — not a sign anything is wrong.
+
+### Three things that will sink an otherwise good email
+- Same email to 20 companies with the name swapped. People can tell. Change the area and one
+  specific detail every time.
+- Claiming AI/ML depth you can't defend. Your backend evidence is strong; use it.
+- No resume attached, or a Drive link that asks for access. Attach the PDF.
