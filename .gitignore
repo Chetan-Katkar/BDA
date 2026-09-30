@@ -40,3 +40,5 @@ data/*.parquet
 .DS_Store
 Thumbs.db
 .ipynb_checkpoints/
+internship-research/att.b64
+internship-research/mail_body.html
